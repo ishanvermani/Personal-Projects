@@ -7,6 +7,7 @@ This program is designed to be fed an input color, and then extract
 all instances of that color from the image. It then analyzes the extracted
 pixels and groups them into shapes according to their positioning and location.
 
+To be used in Processing
 **/
 
 
