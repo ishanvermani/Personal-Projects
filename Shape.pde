@@ -2,9 +2,13 @@
 @author Ishan Vermani
 @version May 1 2019
 
+Class file to be used with ComputerVision.PDE
+
 Shape class to create new shapes, which 
 group pixels and then draws the boxes 
 around these condensed pixel groups
+
+To be used in Processing
 **/
 
 
